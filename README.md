@@ -13,6 +13,7 @@ HTML, CSS, JavaScript, Dates and Timers in JS,DOM.
 * Total Net Deposit and Total Net Withdrawal amounts are shown.
 * "Close account" functionality.
 * "SORT" button to sort the transactions according to the amount.
+* "Logout Timer" automatically logs out the user after 10 minutes of inactivity.
 
 ## NOTE:
 The account holders implemented in this Bankist APP and the transactions are pre-defined.
