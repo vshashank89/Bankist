@@ -20,8 +20,8 @@ Pre-defined Accounts for Log-In :
 |Username | Pin |
 |-------- | ---- |
 |vs | 1111 | 
-2. mb-2222
-3. ak-3333 
-4. rs-4444
+| mb | 2222 |
+| ak | 3333 | 
+| rs | 4444 |
 
 Check out the Bankist Application here : https://vshashank89.github.io/Bankist/
